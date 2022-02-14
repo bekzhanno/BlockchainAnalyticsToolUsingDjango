@@ -27,6 +27,7 @@ http://127.0.0.1:8000/
 ```
 ## Examples
 Outputs will be like these:
+
 ```bar chart:```
 ![image](https://user-images.githubusercontent.com/75968886/153454030-571b7421-63b3-4f0c-ae7c-25afc72f818c.png)
 
